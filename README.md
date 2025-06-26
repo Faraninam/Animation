@@ -42,4 +42,4 @@ __📧 Let's Connect:__
 
 - Email : faraninam.dev@gmail.com
 
-- Live Demo : 
+- Live Demo : https://faraninam.github.io/Animation/
